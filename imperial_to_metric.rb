@@ -2,7 +2,7 @@ def convert_in_to_cm (height_in)
 	height_in * 2.54
 end
 
-def convert_lbs_to_kg(weightlbs)
+def convert_lbs_to_kg(weight_lbs)
 	weight_lbs * 0.45
 end
 
